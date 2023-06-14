@@ -1,3 +1,5 @@
+#Treasures island game 
+
 print("Welcome to Treasure Island.")
 print("Your mission is to find the treasure.")
 #Different paths to choose
@@ -18,3 +20,4 @@ if choice == "left":
     print("The monster of the lake pulled you down, Game Over")
 else:
   print("The forest creatures captured you and ate you, Game Over")
+ 
