@@ -1,3 +1,2 @@
-# 100_days_of_pyhton
-My journey of learning python in a 100 days.
-In this repository I will put all the small project I've created on my journey through this 100 day course.
+# Small Python projects
+- This is going to be where I add my code written in python that has help me on my jounrey to programming.
